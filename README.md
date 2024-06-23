@@ -31,4 +31,4 @@ Download visualizations and data for reports.
 ## Contact information
 Email: abdinur.khalif25@gmail.com
 Phone: +252907736119
-Github link: 
+Github link: https://github.com/Khalif25/Big-data-visualization-project
