@@ -16,7 +16,13 @@ Developed on an Intel Core i7, 16GB RAM laptop, with deployment on a cloud-based
    # Data Preprocessing
    Clean, transform, and integrate data from data.gov.uk.
    # Develop Visualizations
-   Use Tableau, Plotly, and Seaborn to create interactive dashboards.
+   use the following packages to to create interactive dashboards:
+    streamlit
+    pandas
+    Plotly 
+    Seaborn
+    matplotlib
+
 ## Web Application
    Develop the web app using Streamlit and integrate Tableau visualizations.
 ## Deploy
