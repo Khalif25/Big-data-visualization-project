@@ -9,6 +9,15 @@ Streamlit-- For developing the web application to host visualizations.
 
 # Hardware
 Developed on an Intel Core i7, 16GB RAM laptop, with deployment on a cloud-based server for scalability.
+# Project Setup
+
+## Setting Up Virtual Environment
+-NB- the venv folder were removed from the project directory when submitting the project because we could not upload the project in the canvass due to the big size mainly contributed by 'venv'
+
+1. Create a virtual environment (if you don't have `virtualenv` installed, you can install it via `pip install virtualenv`):
+   ```bash
+   python -m venv venv
+
 
 ## Deployment Instructions
    # Setup Environment
